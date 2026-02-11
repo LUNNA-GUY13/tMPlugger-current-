@@ -13,7 +13,7 @@ namespace tMPlugger.Launcher
             Console.WriteLine("=== tMPlugger Launcher [Console Force Mode] ===");
 
             // 1. Setup Paths
-            string terrariaDir = @"D:\d space 2\Terraria-SteamRIP.com\Terraria";
+            string terrariaDir = @"[your terraria.exe path]";
             string terrariaPath = Path.Combine(terrariaDir, "Terraria.exe");
             
             // Build path to your compiled DLL
@@ -74,4 +74,5 @@ namespace tMPlugger.Launcher
             Console.ReadKey();
         }
     }
+
 }
