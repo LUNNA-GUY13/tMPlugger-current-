@@ -76,7 +76,7 @@ Defines shared interfaces for plugins.
 
 # Intended Use
 
-Appropriate for small QoL mods, experimental patches, and temporary 1.4.5 modding.
+## Appropriate for small QoL mods, experimental patches, and temporary 1.4.5 modding.
 
 Not intended for large-scale content mods or long-term use as a tModLoader replacement.
 
