@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="tMPlugger.API/tMPlugger.API.csproj" />
+  <Project Path="tMPlugger.Core/tMPlugger.Core.csproj" />
+  <Project Path="tMPlugger.Launcher/tMPlugger.Launcher.csproj" />
+</Solution>

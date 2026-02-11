@@ -1,0 +1,15 @@
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\bin\Debug\net8.0\tMPlugger.Core.deps.json
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\bin\Debug\net8.0\tMPlugger.Core.dll
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\bin\Debug\net8.0\tMPlugger.Core.pdb
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\bin\Debug\net8.0\tMPlugger.API.dll
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\bin\Debug\net8.0\tMPlugger.API.pdb
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.csproj.AssemblyReference.cache
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.AssemblyInfoInputs.cache
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.AssemblyInfo.cs
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.csproj.CoreCompileInputs.cache
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugge.1D3EC570.Up2Date
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.dll
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\refint\tMPlugger.Core.dll
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\tMPlugger.Core.pdb
+C:\Users\manat\Desktop\tMPlugger\tMPlugger.Core\obj\Debug\net8.0\ref\tMPlugger.Core.dll
