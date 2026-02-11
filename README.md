@@ -13,18 +13,18 @@ This is not a full modding platform. It is fast, minimal, and intentionally raw.
 
 ---
 
-## The Situation
+# The Situation
 
 THIS PROJECT WAS MADE IN A WEEK.
 DO NOT COMPLAIN THAT IT IS UNDER-DEVELOPED.
 
 This is a solo project built so I could play Terraria 1.4.5 with my own QoL mods without waiting for tModLoader to update. It works, it is fast, and it is unfinished. Use it with that understanding.
 
-Also: do not question Greg.
+# Also: do not question Greg.
 
 ---
 
-## tModLoader Disclaimer
+# tModLoader Disclaimer
 
 This project is NOT a replacement for tModLoader.
 
@@ -32,7 +32,7 @@ tModLoader is an exceptional project, and mods like Calamity are the reason Terr
 
 ---
 
-## Feature Comparison
+# Feature Comparison
 
 | Feature                | tMPlugger                     | tModLoader        |
 | ---------------------- | ----------------------------- | ----------------- |
@@ -43,7 +43,7 @@ tModLoader is an exceptional project, and mods like Calamity are the reason Terr
 
 ---
 
-## Technical Resources
+# Technical Resources
 
 | Resource          | Purpose                             |
 | ----------------- | ----------------------------------- |
@@ -53,15 +53,15 @@ tModLoader is an exceptional project, and mods like Calamity are the reason Terr
 
 ---
 
-## Setup and Installation
+# Setup and Installation
 
-Before building, you must manually set the path to your local Terraria executable in the launcher source code. If the path is incorrect, injection will fail.
+Before building, you must manually set the path to your local Terraria executable in the Program.cs.
 
 Build the project using .NET 8.0 and run the launcher to inject the runtime into Terraria.
 
 ---
 
-## Project Components
+# Project Components
 
 Launcher
 Responsible for injecting the runtime into the Terraria process.
@@ -74,7 +74,7 @@ Defines shared interfaces for plugins.
 
 ---
 
-## Intended Use
+# Intended Use
 
 Appropriate for small QoL mods, experimental patches, and temporary 1.4.5 modding.
 
@@ -82,7 +82,7 @@ Not intended for large-scale content mods or long-term use as a tModLoader repla
 
 ---
 
-## License
+# License
 
 MIT License.
 
