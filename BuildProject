@@ -1,0 +1,20 @@
+@echo off
+echo -------------------------------------------------------
+echo [tMPlugger] STARTING BUILD...
+echo -------------------------------------------------------
+
+:: Build the solution in Release mode for x64
+dotnet build tMPlugger.sln --configuration Release --arch x64
+
+if %errorlevel% neq 0 (
+    echo.
+    echo [!] BUILD FAILED! Check the errors above.
+    pause
+    exit /b %errorlevel%
+)
+
+echo.
+echo [OK] BUILD SUCCESSFUL!
+echo [OK] Files are in their respective /bin/Release/ folders.
+echo -------------------------------------------------------
+pause
